@@ -2,6 +2,7 @@
   <div>
     <p>Hello, shawty world!</p>
     <github-input></github-input>
+    <github-output></github-output>
   </div>
 </template>
 
